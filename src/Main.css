@@ -1,0 +1,19 @@
+main {
+  margin-top: 70px;
+}
+
+h1 {
+  color: #fff;
+}
+
+.handCursor {
+  cursor: pointer;
+}
+
+.modal-content {
+  background-color: rgba(0, 0, 0, 0);
+}
+.btn{
+  display: flex;
+  justify-content: space-evenly;
+}
